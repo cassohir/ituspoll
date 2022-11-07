@@ -14,8 +14,13 @@
 <br>
 
 <p align="center">
-  <img alt="ituspoll" src="./web/public/logo.svg" width="100%">
+  <img alt="ituspoll" src="./web/public/logo.svg" width="50%">
 </p>
+
+![image](https://user-images.githubusercontent.com/60746590/200203917-a7d323fa-90af-4d0e-b45c-0703f15728a3.png)
+![image](https://user-images.githubusercontent.com/60746590/200203967-b91f20e8-7c43-4a05-b9f7-9882b1bab480.png)
+![image](https://user-images.githubusercontent.com/60746590/200203995-b3935a56-725b-490f-b123-ae7f148469c3.png)
+
 
 ## 🚀 Tecnologias
 
