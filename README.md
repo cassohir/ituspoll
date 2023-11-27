@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="ituspoll" src="./web/public/logo.svg" width="100%">
+  <img alt="ituspoll" src="./web/public/logo.svg" width="50%">
 </p>
 
 ## 🚀 Tecnologias
@@ -46,4 +46,3 @@ Esse projeto está sob a licença MIT.
 Feito com ♥ by <code><a href="https://instagram.com/cassio_izidorio"> cassio_izidorio </a></code>
 
 # ItusPoll
-# ituspoll
